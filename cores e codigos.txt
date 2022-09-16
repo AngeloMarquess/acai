@@ -1,0 +1,47 @@
+Cores:
+
+Roxo medio: #7D0C4A
+Roxo escuro: #5d0545
+Amarelo: #f2cb2f
+
+------------------------------------------
+/* Codigos css: */
+
+span#glfButton0 {
+    padding: 9px !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    font-family: "poppins", sans-serif !important;
+}
+
+
+span#glfButton1 {
+    padding: 9px !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    font-family: "poppins", sans-serif !important;
+}
+
+
+span#glfButton2 {
+    padding: 9px !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    font-family: "poppins", sans-serif !important;
+}
+
+span#glfButton3 {
+    padding: 9px !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    font-family: "poppins", sans-serif !important;
+}
+
+/* CSS Logo diminuir de tamanho */
+#header.elementor-sticky--effects .logo  {
+width: 70%;
+transition: all .5s ease;
+}
+
+
+18 20 20 16 20
